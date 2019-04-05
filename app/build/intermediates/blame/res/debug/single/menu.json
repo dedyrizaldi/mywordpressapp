@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_post_details.xml",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\menu\\menu_activity_post_details.xml"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_webview.xml",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\menu\\menu_activity_webview.xml"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_main.xml",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\menu\\menu_activity_main.xml"
+    }
+]

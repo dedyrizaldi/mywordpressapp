@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_24dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\650e7e0893d3e79767d1d8d299be6c557e75e08b\\output\\res\\drawable-ldpi-v4\\ic_menu_24dp.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fullscreen_exit_24dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\650e7e0893d3e79767d1d8d299be6c557e75e08b\\output\\res\\drawable-ldpi-v4\\ic_fullscreen_exit_24dp.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_pause_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\650e7e0893d3e79767d1d8d299be6c557e75e08b\\output\\res\\drawable-ldpi-v4\\ic_pause_36dp.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fullscreen_24dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\650e7e0893d3e79767d1d8d299be6c557e75e08b\\output\\res\\drawable-ldpi-v4\\ic_fullscreen_24dp.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2a7beb05451c42d475f1b1f8c8340e6031af9910\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\650e7e0893d3e79767d1d8d299be6c557e75e08b\\output\\res\\drawable-ldpi-v4\\ic_play_36dp.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_youtube_24dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\650e7e0893d3e79767d1d8d299be6c557e75e08b\\output\\res\\drawable-ldpi-v4\\ic_youtube_24dp.png"
+    }
+]

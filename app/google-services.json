@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "193074871651",
+    "firebase_url": "https://wordpressapp-e0a54.firebaseio.com",
+    "project_id": "wordpressapp-e0a54",
+    "storage_bucket": "wordpressapp-e0a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193074871651:android:b4ab99b6baa4c6db",
+        "android_client_info": {
+          "package_name": "com.app.wordpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193074871651-268i9u9v5shou94f0pfjsig2j001m3gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.wordpress",
+            "certificate_hash": "5cc2da3bce58862630094b064bf1694a927cd05a"
+          }
+        },
+        {
+          "client_id": "193074871651-jq20m8f5lej49831rne3j0905e9imui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2il6WY4TaPudkffyco7sQqBhK1JvTX64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193074871651-jq20m8f5lej49831rne3j0905e9imui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

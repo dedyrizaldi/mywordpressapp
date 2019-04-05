@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_preferences.xml",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\xml\\setting_preferences.xml"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    }
+]

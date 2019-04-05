@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_clear.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clear.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_image.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_image.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_comment.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_refresh.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_about.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_about.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_category.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_category.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_home.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_home.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_video_library_black_24dp.png",
+        "source": "E:\\finedev\\WpApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_video_library_black_24dp.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_send_comment.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send_comment.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_later.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_later.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_date.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_date.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_share.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_setting.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_setting.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_later.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_later.png"
+    },
+    {
+        "merged": "E:\\finedev\\WpApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_rate.png",
+        "source": "E:\\finedev\\WpApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_rate.png"
+    }
+]
